@@ -1,0 +1,5 @@
+version: "Apple Swift version 2.0 (swiftlang-700.0.47.4 clang-700.0.59.1)"
+options: "c1f0235e95b8bf25381cda354e62f55c"
+build_time: [492402009, 246032000]
+inputs: 
+	"/Users/cls/Desktop/Timer/TimerTests/TimerTests.swift": [492394305, 0]
